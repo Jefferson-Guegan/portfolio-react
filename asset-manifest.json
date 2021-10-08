@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.64d79f83.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.61954eae.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.61954eae.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.76f6ebfb.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.76f6ebfb.js.map",
+    "static/css/2.ee224469.chunk.css": "/portfolio-react/static/css/2.ee224469.chunk.css",
+    "static/js/2.20f85e21.chunk.js": "/portfolio-react/static/js/2.20f85e21.chunk.js",
+    "static/js/2.20f85e21.chunk.js.map": "/portfolio-react/static/js/2.20f85e21.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "static/css/2.ee224469.chunk.css.map": "/portfolio-react/static/css/2.ee224469.chunk.css.map",
+    "static/css/main.64d79f83.chunk.css.map": "/portfolio-react/static/css/main.64d79f83.chunk.css.map",
+    "static/js/2.20f85e21.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.20f85e21.chunk.js.LICENSE.txt",
+    "static/media/about-page-img.61ee0d62.jpg": "/portfolio-react/static/media/about-page-img.61ee0d62.jpg",
+    "static/media/App.css": "/portfolio-react/static/media/background.f5fd28aa.jpg",
+    "static/media/jeffersonguegan.e1e051b8.pdf": "/portfolio-react/static/media/jeffersonguegan.e1e051b8.pdf",
+    "static/media/logo.6e52f96e.png": "/portfolio-react/static/media/logo.6e52f96e.png",
+    "static/media/project1.3fc95ca5.png": "/portfolio-react/static/media/project1.3fc95ca5.png",
+    "static/media/project2.2392fe7f.png": "/portfolio-react/static/media/project2.2392fe7f.png",
+    "static/media/project3.cbfa8e81.png": "/portfolio-react/static/media/project3.cbfa8e81.png",
+    "static/media/project4.b6b1af7d.png": "/portfolio-react/static/media/project4.b6b1af7d.png",
+    "static/media/project5.54c877bd.png": "/portfolio-react/static/media/project5.54c877bd.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/portfolio-react/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/portfolio-react/static/media/social-media-arrow.f5e093ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76f6ebfb.js",
+    "static/css/2.ee224469.chunk.css",
+    "static/js/2.20f85e21.chunk.js",
+    "static/css/main.64d79f83.chunk.css",
+    "static/js/main.61954eae.chunk.js"
+  ]
+}
