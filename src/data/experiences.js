@@ -29,7 +29,7 @@ const experiences = [
         date: 'Janvier 2013 - Mai 2015',
         org: 'Maroc',
         desc:
-          'Aide à la refonte de sites webs (Back Office de la Berkeley Law Society, Intelaws Finance Corporation, Passion Argan | Appui stratégie web',
+          'Aide à la refonte de sites web (Back Office de la Berkeley Law Society, Intelaws Finance Corporation, Passion Argan | Appui stratégie web',
     }, 
     {
         id: 5,
