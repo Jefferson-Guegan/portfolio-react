@@ -469,7 +469,6 @@ color: var(--primary-light);
   overflow: hidden;
   border-radius: 12px;
   display: inline-block;
-  border: 3px solid var(--primary-light);
 }
 
 .project-item img {
@@ -684,10 +683,15 @@ width:100%;
 font-size: 1.2rem;
 padding: .5rem;
 color: var(--primary-fuscia);
-background-color: var(--primary-light);
+background-color: var(--third-dark);
 outline: none;
 border-radius: 8px;
 margin-top: 1rem;
+border: none;
+}
+
+input:hover{
+  border: none;
 }
 
 textarea{
@@ -696,7 +700,7 @@ textarea{
 }
 
 button {
-  background-color: var(--primary-light);
+  background-color: var(--third-dark);
   color: var(--primary-fuscia);
   font-size: 1.5rem !important;
   display: inline-block;
@@ -705,6 +709,12 @@ button {
   padding: .5rem 2rem;
   border-radius: 8px !important;
   cursor: pointer;
+}
+
+#contactSection button:hover {
+  background-color: var(--primary-fuscia);
+  color: var(--third-dark);
+  transition: 0.5s ease-in-out;
 }
 
 @media (max-width: 768px) {
